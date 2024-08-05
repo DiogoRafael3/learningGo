@@ -3,7 +3,7 @@ package honorifics
 import "strings"
 
 // Verifies if your honorific is of a valid type following the format (<HONORIFIC> <FIRST NAME> <LAST NAME>)
-func AdressType(name string) bool {
+func HonorificType(name string) bool {
 	validTypes := []string{"mister", "miss", "mx"}
 
 	honorific := strings.ToLower(strings.Split(name, " ")[0]) //lower case the first element of the string

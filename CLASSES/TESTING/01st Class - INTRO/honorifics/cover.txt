@@ -1,0 +1,5 @@
+mode: set
+intro/honorifics/honorifics.go:6.38,11.41 3 1
+intro/honorifics/honorifics.go:11.41,12.31 1 1
+intro/honorifics/honorifics.go:12.31,14.4 1 1
+intro/honorifics/honorifics.go:17.2,17.14 1 0
